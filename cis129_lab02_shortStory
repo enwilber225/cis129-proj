@@ -1,1 +1,7 @@
-print('Hello, World')
+# Author: Elias Wilber
+# This is my first CIS 129 lab!
+# Prints a simple short story!
+
+print('There was a boy called Jerm, he loved flying planes.')
+print('Jerm loved flying planes so much!')
+print('Eventually, he grew up to become a pilot')
